@@ -1,2 +1,2 @@
-# wock1987.github.io
+# 博客的初步建立
 hexo blog
