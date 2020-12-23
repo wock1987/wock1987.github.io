@@ -1,2 +1,1 @@
-# 博客的初步建立
-hexo blog
+skip_render: README.md
